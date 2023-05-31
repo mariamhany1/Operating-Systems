@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="primes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GUI/Assignment1OS/primes.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
